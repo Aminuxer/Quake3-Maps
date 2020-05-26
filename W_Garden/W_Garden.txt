@@ -1,1 +1,8 @@
-Winter Garden Quake3 map.
+"Winter Garden" Quake3 map.
+
+Spwan points: 6
+Bots path [aas]: OK
+Header: OK
+LevelShot: OK
+
+Final realese: 2014-09-22
